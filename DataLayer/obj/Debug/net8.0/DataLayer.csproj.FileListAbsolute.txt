@@ -1,0 +1,15 @@
+C:\Users\acer\Documents\ProductInteg\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\acer\Documents\ProductInteg\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\acer\Documents\ProductInteg\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\acer\Documents\ProductInteg\DataLayer\bin\Debug\net8.0\Model.dll
+C:\Users\acer\Documents\ProductInteg\DataLayer\bin\Debug\net8.0\Model.pdb
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\acer\Documents\ProductInteg\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
