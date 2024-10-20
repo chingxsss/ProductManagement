@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\BusinessLogic\\BusinessLogic.csproj": {}
+    "C:\\Users\\acer\\Documents\\ProductInteg\\BusinessLogic\\BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\acer\\Documents\\ProductInteg\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Documents\\ProductInteg\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\acer\\Documents\\ProductInteg\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Documents\\ProductInteg\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesDataServices\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesDataServices\\DataLayer.csproj"
+              "C:\\Users\\acer\\Documents\\ProductInteg\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\acer\\Documents\\ProductInteg\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -53,6 +53,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -73,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesDataServices\\DataLayer.csproj": {
+    "C:\\Users\\acer\\Documents\\ProductInteg\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesDataServices\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Documents\\ProductInteg\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesDataServices\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\acer\\Documents\\ProductInteg\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesDataServices\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Documents\\ProductInteg\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesModel\\Model.csproj": {
-                "projectPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesModel\\Model.csproj"
+              "C:\\Users\\acer\\Documents\\ProductInteg\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\acer\\Documents\\ProductInteg\\Model\\Model.csproj"
               }
             }
           }
@@ -123,6 +129,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
@@ -148,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesModel\\Model.csproj": {
+    "C:\\Users\\acer\\Documents\\ProductInteg\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesModel\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Documents\\ProductInteg\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesModel\\Model.csproj",
+        "projectPath": "C:\\Users\\acer\\Documents\\ProductInteg\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\source\\repos\\palma, stephanie joycel.(3layer)\\ChurchesModel\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Documents\\ProductInteg\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -193,6 +211,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

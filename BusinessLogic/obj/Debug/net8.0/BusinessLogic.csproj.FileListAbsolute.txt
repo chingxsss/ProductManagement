@@ -1,18 +1,18 @@
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\bin\Debug\net8.0\DataLayer.dll
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\bin\Debug\net8.0\Model.dll
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\bin\Debug\net8.0\DataLayer.pdb
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\bin\Debug\net8.0\Model.pdb
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
-C:\Users\acer\source\repos\palma, stephanie joycel.(3layer)\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\bin\Debug\net8.0\DataLayer.dll
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\bin\Debug\net8.0\Model.dll
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\bin\Debug\net8.0\Model.pdb
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Users\acer\Documents\ProductInteg\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json

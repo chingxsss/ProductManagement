@@ -8,10 +8,11 @@ namespace BusinessLogic
     {
         private readonly ProductRepository productRepository = new ProductRepository();
 
-        public bool CheckIfUserExists(string username, string password)
+        public bool CheckIfUserExists(string username, string password) 
         {
             var user = productRepository.GetUsers().FirstOrDefault(u => u.Username == username && u.Password == password);
             return user != null;
         }
     }
 }
+ 
